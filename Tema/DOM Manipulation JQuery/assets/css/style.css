@@ -1,0 +1,36 @@
+.content {
+  width: 40%;
+  height: 45%;
+  margin: auto;
+  background-color: lightcoral;
+}
+
+.container {
+  float: right;
+  margin: auto;
+  width: auto;
+}
+
+.clear-float {
+  clear: both;
+}
+
+#confirmation {
+  width: 40%;
+  height: 45%;
+  margin: auto;
+  background-color: orange;
+  text-align: center;
+}
+
+#textbox {
+   resize: none;
+}
+
+.inputData {
+  margin: 3px;
+}
+
+#confirmation {
+  visibility: hidden;
+}
